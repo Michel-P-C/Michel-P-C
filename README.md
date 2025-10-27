@@ -1,4 +1,4 @@
-## Olá! eu sou Michel Pereira da Cunha
+## Olá! eu sou Michel Pereira
 
 <div>
   <a href="https://github.com/Michel-P-C">
